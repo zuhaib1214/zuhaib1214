@@ -6,7 +6,7 @@
 
 - 🌱 I’ve completed learning **Machine Learning and Deep Learning** and now I'm doing **computer Vision, Image Processing and NLP**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me anything about **Artificial Intelligence**
 
 - 📫 How to reach me **zuohaibashraf@gmail.com**
 
