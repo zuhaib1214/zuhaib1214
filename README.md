@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhaib1214&label=Profile%20views&color=0e75b6&style=flat" alt="zuhaib1214" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning ,Al**
+- 🌱 I’ve completed learning **Machine Learning and Deep Learning** and now I'm doing **computer Vision, Image Processing and NLP**
 
-- 💬 Ask me about **ML**
+- 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **zuohaibashraf@gmail.com**
 
