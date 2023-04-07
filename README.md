@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/im_z_u_h_a_i_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_z_u_h_a_i_b" height="30" width="40" /></a>
-<a href=https://www.linkedin.com/in/zuhaib-ashraf-145093271/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:https://www.linkedin.com/in/zuhaib-ashraf-145093271/ height="30" width="40" /></a>
+<a href=https:https://www.linkedin.com/in/zuhaib-ashraf1214/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:https://www.linkedin.com/in/zuhaib-ashraf-145093271/ height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/zuhaibashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zuhaibashraf" height="30" width="40" /></a>
 </p>
 
